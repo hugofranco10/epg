@@ -1,0 +1,531 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="MiGeneradorEPG">
+  <channel id="RadioRafaela">
+    <display-name>RadioRafaela</display-name>
+  </channel>
+  <programme start="20260420000000 +0000" stop="20260420060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420060000 +0000" stop="20260420080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420080000 +0000" stop="20260420120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420120000 +0000" stop="20260420160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420160000 +0000" stop="20260420180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420180000 +0000" stop="20260420200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260420200000 +0000" stop="20260421000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421000000 +0000" stop="20260421060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421060000 +0000" stop="20260421080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421080000 +0000" stop="20260421120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421120000 +0000" stop="20260421160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421160000 +0000" stop="20260421180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421180000 +0000" stop="20260421200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260421200000 +0000" stop="20260422000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422000000 +0000" stop="20260422060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422060000 +0000" stop="20260422080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422080000 +0000" stop="20260422120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422120000 +0000" stop="20260422160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422160000 +0000" stop="20260422180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422180000 +0000" stop="20260422200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260422200000 +0000" stop="20260423000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423000000 +0000" stop="20260423060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423060000 +0000" stop="20260423080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423080000 +0000" stop="20260423120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423120000 +0000" stop="20260423160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423180000 +0000" stop="20260423200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260423200000 +0000" stop="20260424000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424000000 +0000" stop="20260424060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424060000 +0000" stop="20260424080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424080000 +0000" stop="20260424120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424120000 +0000" stop="20260424160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424180000 +0000" stop="20260424200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260424200000 +0000" stop="20260425000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260425060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425060000 +0000" stop="20260425080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425080000 +0000" stop="20260425120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260426000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260426060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426060000 +0000" stop="20260426080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426080000 +0000" stop="20260426120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426120000 +0000" stop="20260426160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426160000 +0000" stop="20260426180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426180000 +0000" stop="20260426200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260426200000 +0000" stop="20260427000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260427060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427060000 +0000" stop="20260427080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427080000 +0000" stop="20260427120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427120000 +0000" stop="20260427160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427160000 +0000" stop="20260427180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427180000 +0000" stop="20260427200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260427200000 +0000" stop="20260428000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428000000 +0000" stop="20260428060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428060000 +0000" stop="20260428080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260429000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429000000 +0000" stop="20260429060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429060000 +0000" stop="20260429080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429080000 +0000" stop="20260429120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429120000 +0000" stop="20260429160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429180000 +0000" stop="20260429200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260429200000 +0000" stop="20260430000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430000000 +0000" stop="20260430060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430060000 +0000" stop="20260430080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430160000 +0000" stop="20260430180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260430200000 +0000" stop="20260501000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501060000 +0000" stop="20260501080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501180000 +0000" stop="20260501200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260501200000 +0000" stop="20260502000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260502060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502060000 +0000" stop="20260502080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502080000 +0000" stop="20260502120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502120000 +0000" stop="20260502160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502160000 +0000" stop="20260502180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502180000 +0000" stop="20260502200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260502200000 +0000" stop="20260503000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503000000 +0000" stop="20260503060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503060000 +0000" stop="20260503080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503080000 +0000" stop="20260503120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503120000 +0000" stop="20260503160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503160000 +0000" stop="20260503180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503180000 +0000" stop="20260503200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260503200000 +0000" stop="20260504000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504000000 +0000" stop="20260504060000 +0000" channel="RadioRafaela">
+    <title lang="es">Sin Programacion</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504060000 +0000" stop="20260504080000 +0000" channel="RadioRafaela">
+    <title lang="es">Amanece la Región</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504080000 +0000" stop="20260504120000 +0000" channel="RadioRafaela">
+    <title lang="es">Arriba la Mañana</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504120000 +0000" stop="20260504160000 +0000" channel="RadioRafaela">
+    <title lang="es">Nada de Siesta</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504180000 +0000" channel="RadioRafaela">
+    <title lang="es">Entre Mates</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260504200000 +0000" channel="RadioRafaela">
+    <title lang="es">Nunca es Tarde</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+  <programme start="20260504200000 +0000" stop="20260505000000 +0000" channel="RadioRafaela">
+    <title lang="es">Música de Radio</title>
+    <desc lang="es">Noticias</desc>
+    <category lang="es">Informativo</category>
+  </programme>
+</tv>
