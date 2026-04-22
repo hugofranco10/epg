@@ -1,0 +1,1493 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="MiGeneradorEPG">
+  <channel id="NET">
+    <display-name>NET</display-name>
+  </channel>
+  <channel id="Telemax">
+    <display-name>Telemax</display-name>
+  </channel>
+  <programme start="20260421000000 +0000" stop="20260421080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260421080000 +0000" stop="20260421100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421100000 +0000" stop="20260421130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260421130000 +0000" stop="20260421143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260421143000 +0000" stop="20260421160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260421160000 +0000" stop="20260421180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260421180000 +0000" stop="20260421183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260421183000 +0000" stop="20260421200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421200000 +0000" stop="20260421210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421210000 +0000" stop="20260421223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260421223000 +0000" stop="20260421231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260421231500 +0000" stop="20260422000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260421000000 +0000" stop="20260421040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260421040000 +0000" stop="20260421060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421060000 +0000" stop="20260421070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421070000 +0000" stop="20260421080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260421080000 +0000" stop="20260421100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260421100000 +0000" stop="20260421120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260421120000 +0000" stop="20260421130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421130000 +0000" stop="20260421140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260421140000 +0000" stop="20260421143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260421143000 +0000" stop="20260421180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260421180000 +0000" stop="20260422000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260422000000 +0000" stop="20260422080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260422080000 +0000" stop="20260422100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422100000 +0000" stop="20260422130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260422130000 +0000" stop="20260422143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260422143000 +0000" stop="20260422160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260422160000 +0000" stop="20260422180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260422180000 +0000" stop="20260422183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260422183000 +0000" stop="20260422200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422200000 +0000" stop="20260422210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422210000 +0000" stop="20260422223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260422223000 +0000" stop="20260422231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260422231500 +0000" stop="20260423000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260422000000 +0000" stop="20260422040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260422040000 +0000" stop="20260422060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422060000 +0000" stop="20260422070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422070000 +0000" stop="20260422080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260422080000 +0000" stop="20260422100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260422100000 +0000" stop="20260422120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260422120000 +0000" stop="20260422130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422130000 +0000" stop="20260422140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260422140000 +0000" stop="20260422143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260422143000 +0000" stop="20260422180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260422180000 +0000" stop="20260423000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260423000000 +0000" stop="20260423080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260423080000 +0000" stop="20260423100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423100000 +0000" stop="20260423130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260423130000 +0000" stop="20260423143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260423143000 +0000" stop="20260423160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260423180000 +0000" stop="20260423183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260423183000 +0000" stop="20260423200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423200000 +0000" stop="20260423210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423210000 +0000" stop="20260423223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260423223000 +0000" stop="20260423231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260423231500 +0000" stop="20260424000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260423000000 +0000" stop="20260423040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260423040000 +0000" stop="20260423060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423060000 +0000" stop="20260423070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423070000 +0000" stop="20260423080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260423080000 +0000" stop="20260423100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260423120000 +0000" stop="20260423130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423130000 +0000" stop="20260423140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260423140000 +0000" stop="20260423143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260423143000 +0000" stop="20260423180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260423180000 +0000" stop="20260424000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260424000000 +0000" stop="20260424080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260424080000 +0000" stop="20260424100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424100000 +0000" stop="20260424130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260424130000 +0000" stop="20260424143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260424143000 +0000" stop="20260424160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260424180000 +0000" stop="20260424183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260424183000 +0000" stop="20260424200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424200000 +0000" stop="20260424210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424210000 +0000" stop="20260424223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260424223000 +0000" stop="20260424231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260424231500 +0000" stop="20260425000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260424000000 +0000" stop="20260424040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260424040000 +0000" stop="20260424060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424060000 +0000" stop="20260424070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424070000 +0000" stop="20260424080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260424080000 +0000" stop="20260424100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260424120000 +0000" stop="20260424130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424130000 +0000" stop="20260424140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260424140000 +0000" stop="20260424143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260424143000 +0000" stop="20260424180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260424180000 +0000" stop="20260425000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260425080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260425080000 +0000" stop="20260425093000 +0000" channel="NET">
+    <title lang="es">Emprendi2</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425093000 +0000" stop="20260425103000 +0000" channel="NET">
+    <title lang="es">Caras y negocios</title>
+    <category lang="es">Entrevitas</category>
+  </programme>
+  <programme start="20260425103000 +0000" stop="20260425110000 +0000" channel="NET">
+    <title lang="es">Música y palabras de inspiración</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20260425110000 +0000" stop="20260425113000 +0000" channel="NET">
+    <title lang="es">Estética 360 TV</title>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20260425113000 +0000" stop="20260425120000 +0000" channel="NET">
+    <title lang="es">Desafío 10 años menos</title>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425123000 +0000" channel="NET">
+    <title lang="es">Casos de éxito</title>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20260425123000 +0000" stop="20260425130000 +0000" channel="NET">
+    <title lang="es">Argentinos x Argentina</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260425130000 +0000" stop="20260425153000 +0000" channel="NET">
+    <title lang="es">El olivo blanco</title>
+    <category lang="es">Dramas</category>
+  </programme>
+  <programme start="20260425153000 +0000" stop="20260425170000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260425170000 +0000" stop="20260425183000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260425183000 +0000" stop="20260425200000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425210000 +0000" channel="NET">
+    <title lang="es">Entre nos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425210000 +0000" stop="20260425223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260425223000 +0000" stop="20260426000000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260425060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425060000 +0000" stop="20260425070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425070000 +0000" stop="20260425093000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260425093000 +0000" stop="20260425100000 +0000" channel="Telemax">
+    <title lang="es">Tiempo de viajar</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425110000 +0000" channel="Telemax">
+    <title lang="es">Programas de Turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260425110000 +0000" stop="20260425120000 +0000" channel="Telemax">
+    <title lang="es">Memoria frágil</title>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425130000 +0000" channel="Telemax">
+    <title lang="es">Apadrinando</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260425130000 +0000" stop="20260425140000 +0000" channel="Telemax">
+    <title lang="es">Alma gaucha</title>
+    <category lang="es">Folclórico</category>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425150000 +0000" channel="Telemax">
+    <title lang="es">Jineteando</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425150000 +0000" stop="20260425160000 +0000" channel="Telemax">
+    <title lang="es">Identidad nacional</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="Telemax">
+    <title lang="es">Lo mejor de Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425183000 +0000" channel="Telemax">
+    <title lang="es">Planeta vinos</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260425183000 +0000" stop="20260425193000 +0000" channel="Telemax">
+    <title lang="es">Salta es una canción</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425193000 +0000" stop="20260425230000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260425230000 +0000" stop="20260426000000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260426083000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260426083000 +0000" stop="20260426100000 +0000" channel="NET">
+    <title lang="es">Emprendi2</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426100000 +0000" stop="20260426103000 +0000" channel="NET">
+    <title lang="es">Jubilate en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426103000 +0000" stop="20260426110000 +0000" channel="NET">
+    <title lang="es">Scouting para un cambio TV</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426110000 +0000" stop="20260426120000 +0000" channel="NET">
+    <title lang="es">Intelexis</title>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20260426120000 +0000" stop="20260426130000 +0000" channel="NET">
+    <title lang="es">Fiestas argentinas</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260426130000 +0000" stop="20260426140000 +0000" channel="NET">
+    <title lang="es">Todos podemos viajar</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260426140000 +0000" stop="20260426150000 +0000" channel="NET">
+    <title lang="es">Pares de comedia</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260426150000 +0000" stop="20260426160000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260426160000 +0000" stop="20260426190000 +0000" channel="NET">
+    <title lang="es">Net TV</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260426190000 +0000" stop="20260426200000 +0000" channel="NET">
+    <title lang="es">Argentina desconocida</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260426200000 +0000" stop="20260426210000 +0000" channel="NET">
+    <title lang="es">Entre nos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426210000 +0000" stop="20260426220000 +0000" channel="NET">
+    <title lang="es">¿Culpable o inocente?</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260426220000 +0000" stop="20260426230000 +0000" channel="NET">
+    <title lang="es">Biri Biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260426230000 +0000" stop="20260427000000 +0000" channel="NET">
+    <title lang="es">Periodismo puro</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260426060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426060000 +0000" stop="20260426070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426070000 +0000" stop="20260426090000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260426090000 +0000" stop="20260426110000 +0000" channel="Telemax">
+    <title lang="es">Programas de turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260426110000 +0000" stop="20260426120000 +0000" channel="Telemax">
+    <title lang="es">Memoria frágil</title>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20260426120000 +0000" stop="20260426130000 +0000" channel="Telemax">
+    <title lang="es">La patria jinetea y canta</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426130000 +0000" stop="20260426140000 +0000" channel="Telemax">
+    <title lang="es">Alma gaucha</title>
+    <category lang="es">Folclórico</category>
+  </programme>
+  <programme start="20260426140000 +0000" stop="20260426150000 +0000" channel="Telemax">
+    <title lang="es">Programas de turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260426150000 +0000" stop="20260426160000 +0000" channel="Telemax">
+    <title lang="es">Tiempo de pesca</title>
+    <category lang="es">Pesca</category>
+  </programme>
+  <programme start="20260426160000 +0000" stop="20260426180000 +0000" channel="Telemax">
+    <title lang="es">Lo mejor de Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260426180000 +0000" stop="20260426183000 +0000" channel="Telemax">
+    <title lang="es">Estaciones y tradiciones</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260426183000 +0000" stop="20260426193000 +0000" channel="Telemax">
+    <title lang="es">Salta es una canción</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426193000 +0000" stop="20260426230000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260426230000 +0000" stop="20260427000000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260427080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260427080000 +0000" stop="20260427100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427100000 +0000" stop="20260427130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260427130000 +0000" stop="20260427143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260427143000 +0000" stop="20260427160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260427160000 +0000" stop="20260427180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260427180000 +0000" stop="20260427183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260427183000 +0000" stop="20260427200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427200000 +0000" stop="20260427210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427210000 +0000" stop="20260427223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260427223000 +0000" stop="20260427231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260427231500 +0000" stop="20260428000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260427000000 +0000" stop="20260427040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260427040000 +0000" stop="20260427060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427060000 +0000" stop="20260427070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427070000 +0000" stop="20260427080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260427080000 +0000" stop="20260427100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260427100000 +0000" stop="20260427120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260427120000 +0000" stop="20260427130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427130000 +0000" stop="20260427140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260427140000 +0000" stop="20260427143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260427143000 +0000" stop="20260427180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260427180000 +0000" stop="20260428000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260428000000 +0000" stop="20260428080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260428130000 +0000" stop="20260428143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260428143000 +0000" stop="20260428160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260428183000 +0000" stop="20260428200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428210000 +0000" stop="20260428223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260428223000 +0000" stop="20260428231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260428231500 +0000" stop="20260429000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260428000000 +0000" stop="20260428040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260428040000 +0000" stop="20260428060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428060000 +0000" stop="20260428070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428070000 +0000" stop="20260428080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260428080000 +0000" stop="20260428100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428130000 +0000" stop="20260428140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260428143000 +0000" stop="20260428180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260429000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260429000000 +0000" stop="20260429080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260429080000 +0000" stop="20260429100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260429130000 +0000" stop="20260429143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260429143000 +0000" stop="20260429160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260429160000 +0000" stop="20260429180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260429180000 +0000" stop="20260429183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260429183000 +0000" stop="20260429200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429200000 +0000" stop="20260429210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429210000 +0000" stop="20260429223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260429223000 +0000" stop="20260429231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260429231500 +0000" stop="20260430000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260429000000 +0000" stop="20260429040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260429040000 +0000" stop="20260429060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429060000 +0000" stop="20260429070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429070000 +0000" stop="20260429080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260429080000 +0000" stop="20260429100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260429100000 +0000" stop="20260429120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260429120000 +0000" stop="20260429130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429130000 +0000" stop="20260429140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260429140000 +0000" stop="20260429143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260429143000 +0000" stop="20260429180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260429180000 +0000" stop="20260430000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260430000000 +0000" stop="20260430080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430100000 +0000" stop="20260430130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260430130000 +0000" stop="20260430143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260430143000 +0000" stop="20260430160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260430160000 +0000" stop="20260430180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260430183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260430183000 +0000" stop="20260430200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430200000 +0000" stop="20260430210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430210000 +0000" stop="20260430223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260430223000 +0000" stop="20260430231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260430231500 +0000" stop="20260501000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260430000000 +0000" stop="20260430040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260430040000 +0000" stop="20260430060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430060000 +0000" stop="20260430070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430070000 +0000" stop="20260430080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260430080000 +0000" stop="20260430100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260430100000 +0000" stop="20260430120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260430120000 +0000" stop="20260430130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430130000 +0000" stop="20260430140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260430140000 +0000" stop="20260430143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260430143000 +0000" stop="20260430180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260430180000 +0000" stop="20260501000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260501143000 +0000" stop="20260501160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260501160000 +0000" stop="20260501180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260501180000 +0000" stop="20260501183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260501183000 +0000" stop="20260501200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501200000 +0000" stop="20260501210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501210000 +0000" stop="20260501223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260501223000 +0000" stop="20260501231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260501231500 +0000" stop="20260502000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260501000000 +0000" stop="20260501040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260501040000 +0000" stop="20260501060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501060000 +0000" stop="20260501070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501070000 +0000" stop="20260501080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260501080000 +0000" stop="20260501100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260501100000 +0000" stop="20260501120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260501120000 +0000" stop="20260501130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501130000 +0000" stop="20260501140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260501140000 +0000" stop="20260501143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260501143000 +0000" stop="20260501180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260501180000 +0000" stop="20260502000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260502080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260502080000 +0000" stop="20260502093000 +0000" channel="NET">
+    <title lang="es">Emprendi2</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502093000 +0000" stop="20260502103000 +0000" channel="NET">
+    <title lang="es">Caras y negocios</title>
+    <category lang="es">Entrevitas</category>
+  </programme>
+  <programme start="20260502103000 +0000" stop="20260502110000 +0000" channel="NET">
+    <title lang="es">Música y palabras de inspiración</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20260502110000 +0000" stop="20260502113000 +0000" channel="NET">
+    <title lang="es">Estética 360 TV</title>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20260502113000 +0000" stop="20260502120000 +0000" channel="NET">
+    <title lang="es">Desafío 10 años menos</title>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20260502120000 +0000" stop="20260502123000 +0000" channel="NET">
+    <title lang="es">Casos de éxito</title>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20260502123000 +0000" stop="20260502130000 +0000" channel="NET">
+    <title lang="es">Argentinos x Argentina</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260502130000 +0000" stop="20260502153000 +0000" channel="NET">
+    <title lang="es">El olivo blanco</title>
+    <category lang="es">Dramas</category>
+  </programme>
+  <programme start="20260502153000 +0000" stop="20260502170000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260502170000 +0000" stop="20260502183000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260502183000 +0000" stop="20260502200000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260502200000 +0000" stop="20260502210000 +0000" channel="NET">
+    <title lang="es">Entre nos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502210000 +0000" stop="20260502223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260502223000 +0000" stop="20260503000000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260502000000 +0000" stop="20260502060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502060000 +0000" stop="20260502070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502070000 +0000" stop="20260502093000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260502093000 +0000" stop="20260502100000 +0000" channel="Telemax">
+    <title lang="es">Tiempo de viajar</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260502100000 +0000" stop="20260502110000 +0000" channel="Telemax">
+    <title lang="es">Programas de Turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260502110000 +0000" stop="20260502120000 +0000" channel="Telemax">
+    <title lang="es">Memoria frágil</title>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20260502120000 +0000" stop="20260502130000 +0000" channel="Telemax">
+    <title lang="es">Apadrinando</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260502130000 +0000" stop="20260502140000 +0000" channel="Telemax">
+    <title lang="es">Alma gaucha</title>
+    <category lang="es">Folclórico</category>
+  </programme>
+  <programme start="20260502140000 +0000" stop="20260502150000 +0000" channel="Telemax">
+    <title lang="es">Jineteando</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502150000 +0000" stop="20260502160000 +0000" channel="Telemax">
+    <title lang="es">Identidad nacional</title>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20260502160000 +0000" stop="20260502180000 +0000" channel="Telemax">
+    <title lang="es">Lo mejor de Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260502180000 +0000" stop="20260502183000 +0000" channel="Telemax">
+    <title lang="es">Planeta vinos</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260502183000 +0000" stop="20260502193000 +0000" channel="Telemax">
+    <title lang="es">Salta es una canción</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502193000 +0000" stop="20260502230000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260502230000 +0000" stop="20260503000000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503000000 +0000" stop="20260503083000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260503083000 +0000" stop="20260503100000 +0000" channel="NET">
+    <title lang="es">Emprendi2</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503100000 +0000" stop="20260503103000 +0000" channel="NET">
+    <title lang="es">Jubilate en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503103000 +0000" stop="20260503110000 +0000" channel="NET">
+    <title lang="es">Scouting para un cambio TV</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="NET">
+    <title lang="es">Intelexis</title>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20260503120000 +0000" stop="20260503130000 +0000" channel="NET">
+    <title lang="es">Fiestas argentinas</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260503130000 +0000" stop="20260503140000 +0000" channel="NET">
+    <title lang="es">Todos podemos viajar</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260503140000 +0000" stop="20260503150000 +0000" channel="NET">
+    <title lang="es">Pares de comedia</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260503150000 +0000" stop="20260503160000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260503160000 +0000" stop="20260503190000 +0000" channel="NET">
+    <title lang="es">Net TV</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260503190000 +0000" stop="20260503200000 +0000" channel="NET">
+    <title lang="es">Argentina desconocida</title>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+  <programme start="20260503200000 +0000" stop="20260503210000 +0000" channel="NET">
+    <title lang="es">Entre nos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503210000 +0000" stop="20260503220000 +0000" channel="NET">
+    <title lang="es">¿Culpable o inocente?</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260503220000 +0000" stop="20260503230000 +0000" channel="NET">
+    <title lang="es">Biri Biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260503230000 +0000" stop="20260504000000 +0000" channel="NET">
+    <title lang="es">Periodismo puro</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260503000000 +0000" stop="20260503060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503060000 +0000" stop="20260503070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503070000 +0000" stop="20260503090000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260503090000 +0000" stop="20260503110000 +0000" channel="Telemax">
+    <title lang="es">Programas de turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260503110000 +0000" stop="20260503120000 +0000" channel="Telemax">
+    <title lang="es">Memoria frágil</title>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20260503120000 +0000" stop="20260503130000 +0000" channel="Telemax">
+    <title lang="es">La patria jinetea y canta</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503130000 +0000" stop="20260503140000 +0000" channel="Telemax">
+    <title lang="es">Alma gaucha</title>
+    <category lang="es">Folclórico</category>
+  </programme>
+  <programme start="20260503140000 +0000" stop="20260503150000 +0000" channel="Telemax">
+    <title lang="es">Programas de turismo</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260503150000 +0000" stop="20260503160000 +0000" channel="Telemax">
+    <title lang="es">Tiempo de pesca</title>
+    <category lang="es">Pesca</category>
+  </programme>
+  <programme start="20260503160000 +0000" stop="20260503180000 +0000" channel="Telemax">
+    <title lang="es">Lo mejor de Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260503180000 +0000" stop="20260503183000 +0000" channel="Telemax">
+    <title lang="es">Estaciones y tradiciones</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260503183000 +0000" stop="20260503193000 +0000" channel="Telemax">
+    <title lang="es">Salta es una canción</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503193000 +0000" stop="20260503230000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260503230000 +0000" stop="20260504000000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504000000 +0000" stop="20260504080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260504080000 +0000" stop="20260504100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504100000 +0000" stop="20260504130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260504130000 +0000" stop="20260504143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260504143000 +0000" stop="20260504160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260504183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260504183000 +0000" stop="20260504200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504200000 +0000" stop="20260504210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504210000 +0000" stop="20260504223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260504223000 +0000" stop="20260504231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260504231500 +0000" stop="20260505000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260504000000 +0000" stop="20260504040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260504040000 +0000" stop="20260504060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504060000 +0000" stop="20260504070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504070000 +0000" stop="20260504080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260504080000 +0000" stop="20260504100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260504120000 +0000" stop="20260504130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504130000 +0000" stop="20260504140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260504140000 +0000" stop="20260504143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260504143000 +0000" stop="20260504180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260505000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260505000000 +0000" stop="20260505080000 +0000" channel="NET">
+    <title lang="es">Ventas</title>
+    <category lang="es">Ventas</category>
+  </programme>
+  <programme start="20260505080000 +0000" stop="20260505100000 +0000" channel="NET">
+    <title lang="es">Longobardi</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505100000 +0000" stop="20260505130000 +0000" channel="NET">
+    <title lang="es">Modo Fontevecchia</title>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20260505130000 +0000" stop="20260505143000 +0000" channel="NET">
+    <title lang="es">Gossip</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260505143000 +0000" stop="20260505160000 +0000" channel="NET">
+    <title lang="es">Entrometidos</title>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20260505160000 +0000" stop="20260505180000 +0000" channel="NET">
+    <title lang="es">Qué te pasa</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260505180000 +0000" stop="20260505183000 +0000" channel="NET">
+    <title lang="es">RePerfilAr</title>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20260505183000 +0000" stop="20260505200000 +0000" channel="NET">
+    <title lang="es">ISPA, todo al revés</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505200000 +0000" stop="20260505210000 +0000" channel="NET">
+    <title lang="es">Chiche en vivo</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505210000 +0000" stop="20260505223000 +0000" channel="NET">
+    <title lang="es">Cine Net</title>
+    <category lang="es">Películas</category>
+  </programme>
+  <programme start="20260505223000 +0000" stop="20260505231500 +0000" channel="NET">
+    <title lang="es">El señor de los cielos</title>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20260505231500 +0000" stop="20260506000000 +0000" channel="NET">
+    <title lang="es">Biri biri, la vida misma</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260505000000 +0000" stop="20260505040000 +0000" channel="Telemax">
+    <title lang="es">Industria nacional</title>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20260505040000 +0000" stop="20260505060000 +0000" channel="Telemax">
+    <title lang="es">Documentales de interés general</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505060000 +0000" stop="20260505070000 +0000" channel="Telemax">
+    <title lang="es">Datos curiosos</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505070000 +0000" stop="20260505080000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260505080000 +0000" stop="20260505100000 +0000" channel="Telemax">
+    <title lang="es">Info federal</title>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20260505100000 +0000" stop="20260505120000 +0000" channel="Telemax">
+    <title lang="es">Entre mate y mate</title>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20260505120000 +0000" stop="20260505130000 +0000" channel="Telemax">
+    <title lang="es">Programación del mediodia</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505130000 +0000" stop="20260505140000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20260505140000 +0000" stop="20260505143000 +0000" channel="Telemax">
+    <title lang="es">Vida de campo</title>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20260505143000 +0000" stop="20260505180000 +0000" channel="Telemax">
+    <title lang="es">Programación de la tarde</title>
+    <category lang="es">Interés general</category>
+  </programme>
+  <programme start="20260505180000 +0000" stop="20260506000000 +0000" channel="Telemax">
+    <title lang="es">Selecciones Telemax</title>
+    <category lang="es">Turismo</category>
+  </programme>
+</tv>
