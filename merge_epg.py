@@ -17,7 +17,7 @@ GITHUB_URL = os.environ.get(
     "https://raw.githubusercontent.com/hugofranco10/epg/refs/heads/main/guia_15_dias.xml",
 )
 OUTPUT = Path(os.environ.get("OUTPUT_FILE", "epg.xml"))
-SHIFT_HOURS = int(os.environ.get("SUPPLEMENT_SHIFT_HOURS", "-3"))
+SHIFT_HOURS = int(os.environ.get("SUPPLEMENT_SHIFT_HOURS", "0"))
 
 
 def download_xml(url):
