@@ -130,7 +130,12 @@ def main():
     for programme in root.findall("programme"):
         for desc in list(programme.findall("desc")):
             programme.remove(desc)
-            
+    
+    # Eliminar los logos de todos los canales
+    for channel in root.findall("channel"):
+        for icon in list(channel.findall("icon")):
+            channel.remove(icon)
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     temp_path = None
 
