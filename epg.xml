@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Processed by Open-EPG Visual Processor v1.0" generator-info-url="https://www.open-epg.com">
-<channel id="A24"><display-name>America 24</display-name><icon src="https://images.open-epg.com/x927.png" /></channel>
-<channel id="America"><display-name>America TV</display-name><icon src="https://images.open-epg.com/x932.png" /></channel>
-<channel id="Bolivia"><display-name>Bolivia TV</display-name><icon src="https://images.open-epg.com/25743.png" /></channel>
-<channel id="Canal26"><display-name>Canal 26</display-name><icon src="https://images.open-epg.com/x933.png" /></channel>
-<channel id="Ciudad"><display-name>Canal de la Ciudad</display-name><icon src="https://images.open-epg.com/16782271.png" /></channel>
-<channel id="Cronica"><display-name>Cronica TV</display-name><icon src="https://images.open-epg.com/16782288.png" /></channel>
-<channel id="DW"><display-name>DW en español</display-name><icon src="https://images.open-epg.com/25776.png" /></channel>
-<channel id="ElTrece"><display-name>El Trece</display-name><icon src="https://images.open-epg.com/16782302.png" /></channel>
+<channel id="A24"><display-name>America 24</display-name></channel>
+<channel id="America"><display-name>America TV</display-name></channel>
+<channel id="Bolivia"><display-name>Bolivia TV</display-name></channel>
+<channel id="Canal26"><display-name>Canal 26</display-name></channel>
+<channel id="Ciudad"><display-name>Canal de la Ciudad</display-name></channel>
+<channel id="Cronica"><display-name>Cronica TV</display-name></channel>
+<channel id="DW"><display-name>DW en español</display-name></channel>
+<channel id="ElTrece"><display-name>El Trece</display-name></channel>
 <channel id="Aire">
     <display-name>Aire</display-name>
   </channel><programme start="20261018100000 +0000" stop="20261018160000 +0000" channel="A24"><title>Arriba domingo</title><sub-title /><episode-num system="xmltv_ns" /></programme>
