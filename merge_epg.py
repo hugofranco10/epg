@@ -67,7 +67,10 @@ def main():
     print("Descargando Open-EPG...")
     main_tree = download_xml(ONLINE_URL)
     root = main_tree.getroot()
-
+    
+    root.set("generator-info-name", "MiGeneradorEPG")
+    root.attrib.pop("generator-info-url", None)
+    
     main_channels = {
         e.get("id")
         for e in root.findall("channel")
