@@ -1,0 +1,47 @@
+
+name: Actualizar guia EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-epg
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fusionar y validar las guias
+        env:
+          ONLINE_EPG_URL: https://www.open-epg.com/generate/TCBD9yXGKt.xml
+          SUPPLEMENT_EPG_URL: https://raw.githubusercontent.com/hugofranco10/epg/refs/heads/main/guia_15_dias.xml
+          SUPPLEMENT_SHIFT_HOURS: "-3"
+          OUTPUT_FILE: epg.xml
+        run: python merge_epg.py
+
+      - name: Publicar el XML actualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          if git diff --cached --quiet; then
+            echo "La guia no cambio."
+          else
+            git commit -m "Actualizar guia EPG"
+            git push
+          fi
