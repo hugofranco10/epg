@@ -125,7 +125,12 @@ def main():
 
     if not new_programmes:
         print("Aviso: no se encontraron programas de canales nuevos.")
-
+    
+    # Eliminar las descripciones de todos los programas
+    for programme in root.findall("programme"):
+        for desc in list(programme.findall("desc")):
+            programme.remove(desc)
+            
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     temp_path = None
 
