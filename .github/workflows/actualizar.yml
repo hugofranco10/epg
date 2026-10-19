@@ -30,7 +30,7 @@ jobs:
         env:
           ONLINE_EPG_URL: https://www.open-epg.com/generate/TCBD9yXGKt.xml
           SUPPLEMENT_EPG_URL: https://raw.githubusercontent.com/hugofranco10/epg/refs/heads/main/guia_30_dias.xml
-          SUPPLEMENT_SHIFT_HOURS: "-3"
+          SUPPLEMENT_SHIFT_HOURS: "0"
           OUTPUT_FILE: epg.xml
         run: python merge_epg.py
 
