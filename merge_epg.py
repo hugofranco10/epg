@@ -5,8 +5,9 @@ import sys
 import tempfile
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ONLINE_URL = os.environ.get(
     "ONLINE_EPG_URL",
@@ -62,6 +63,34 @@ def shift_time(value, hours):
     dt = datetime.strptime(value, "%Y%m%d%H%M%S")
     return (dt + timedelta(hours=hours)).strftime("%Y%m%d%H%M%S")
 
+ARG_TZ = ZoneInfo("America/Argentina/Buenos_Aires")
+
+
+def parse_xmltv_time(value):
+    """Convierte un horario XMLTV a UTC."""
+    value = value.strip()
+
+    if " " in value:
+        stamp, zone = value.rsplit(" ", 1)
+
+        if len(zone) == 5 and zone[0] in "+-":
+            dt = datetime.strptime(stamp, "%Y%m%d%H%M%S")
+
+            offset = timedelta(
+                hours=int(zone[1:3]),
+                minutes=int(zone[3:5]),
+            )
+
+            if zone[0] == "-":
+                offset = -offset
+
+            return dt.replace(
+                tzinfo=timezone(offset)
+            ).astimezone(timezone.utc)
+
+    # Si no hay zona explícita, asumir hora argentina.
+    dt = datetime.strptime(value, "%Y%m%d%H%M%S")
+    return dt.replace(tzinfo=ARG_TZ).astimezone(timezone.utc)
 
 def main():
     print("Descargando Open-EPG...")
@@ -89,15 +118,24 @@ def main():
         if channel_id and channel_id not in main_channels:
             new_channels.setdefault(channel_id, channel)
 
+    
+    # Limitar la guía complementaria a las próximas 72 horas.
+    ahora = datetime.now(ARG_TZ).astimezone(timezone.utc)
+    limite = ahora + timedelta(days=3)
+
     new_programmes = []
+    canales_con_programacion = set()
+
     for programme in extra_root.findall("programme"):
         channel_id = programme.get("channel")
 
-        # Ignorar todos los programas de canales ya existentes.
+        # Ignorar canales que ya existen en Open-EPG.
         if channel_id not in new_channels:
             continue
 
-        copy = ET.fromstring(ET.tostring(programme, encoding="utf-8"))
+        copy = ET.fromstring(
+            ET.tostring(programme, encoding="utf-8")
+        )
 
         for attr in ("start", "stop"):
             value = copy.get(attr)
@@ -107,7 +145,22 @@ def main():
                 )
             copy.set(attr, shift_time(value, SHIFT_HOURS))
 
+        inicio = parse_xmltv_time(copy.get("start"))
+        fin = parse_xmltv_time(copy.get("stop"))
+
+        # Descartar programas fuera de las próximas 72 horas.
+        if fin <= ahora or inicio >= limite:
+            continue
+
         new_programmes.append(copy)
+        canales_con_programacion.add(channel_id)
+
+    # Conservar solo canales nuevos con programas en ese período.
+    new_channels = {
+        channel_id: channel
+        for channel_id, channel in new_channels.items()
+        if channel_id in canales_con_programacion
+    }
 
     # Insertar los canales nuevos antes del primer programa.
     first_programme = next(
