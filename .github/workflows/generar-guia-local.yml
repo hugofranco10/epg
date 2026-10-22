@@ -1,0 +1,38 @@
+
+name: Generar guia local
+
+on:
+  schedule:
+    - cron: "0 8 */5 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar-guia:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar guia de 10 dias
+        run: python generar_epg_local.py
+
+      - name: Guardar guia actualizada
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add guia_30_dias.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar guia local de 10 dias"
+            git push
+          else
+            echo "La guia no tuvo cambios; no hace falta un commit."
+          fi
