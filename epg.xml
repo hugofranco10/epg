@@ -1646,55 +1646,7 @@
 <programme start="20261128123500 +0000" stop="20261128124800 +0000" channel="Euronews"><title>Euronews The Ring</title><sub-title /><episode-num system="xmltv_ns" /></programme>
 <programme start="20261128124800 +0000" stop="20261128130000 +0000" channel="Euronews"><title>News</title><sub-title /><episode-num system="xmltv_ns" /></programme>
 <programme start="20261128130000 +0000" stop="20261128131200 +0000" channel="Euronews"><title>5 minutes</title><sub-title /><episode-num system="xmltv_ns" /></programme>
-<programme start="20261125220000 +0000" stop="20261126030000 +0000" channel="Sol">
-    <title lang="es">Programación de noche</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126000000 +0000" stop="20261126030000 +0000" channel="PowerMax">
-    <title lang="es">Sin programación</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="Next">
-    <title lang="es">Programación de noche</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261125210000 +0000" stop="20261126030000 +0000" channel="Chacra">
-    <title lang="es">La red del campo</title>
-    <category lang="es">Agro</category>
-  </programme><programme start="20261125210000 +0000" stop="20261126030000 +0000" channel="Taste">
-    <title lang="es">Comida y viajes</title>
-    <category lang="es">Cocina</category>
-  </programme><programme start="20261126010000 +0000" stop="20261126023000 +0000" channel="F10">
-    <title lang="es">Titanes</title>
-    <category lang="es">Entretenimiento</category>
-  </programme><programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="F10">
-    <title lang="es">Programación de noche</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261125231500 +0000" stop="20261126030000 +0000" channel="Litus">
-    <title lang="es">Programación de noche</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261125230000 +0000" stop="20261126030000 +0000" channel="Rafaela">
-    <title lang="es">Música de Radio</title>
-    <category lang="es">Música</category>
-  </programme><programme start="20261126000000 +0000" stop="20261126030000 +0000" channel="Aire">
-    <title lang="es">VIVO AIRE</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="22Web">
-    <title lang="es">Moranza</title>
-    <category lang="es">Periodístico</category>
-  </programme><programme start="20261126000000 +0000" stop="20261126020000 +0000" channel="Perfil">
-    <title lang="es">QR!</title>
-    <category lang="es">Periodístico</category>
-  </programme><programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="Perfil">
-    <title lang="es">Periodismo puro</title>
-    <category lang="es">Entrevistas</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126090000 +0000" channel="Sol">
-    <title lang="es">Sin programación</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="Sol">
-    <title lang="es">El club de la Sol</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126093000 +0000" stop="20261126113000 +0000" channel="Sol">
-    <title lang="es">La primera de Sol</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126113000 +0000" stop="20261126163000 +0000" channel="Sol">
+<programme start="20261126113000 +0000" stop="20261126163000 +0000" channel="Sol">
     <title lang="es">Malas constumbres</title>
     <category lang="es">Radio</category>
   </programme><programme start="20261126163000 +0000" stop="20261126173000 +0000" channel="Sol">
@@ -1711,21 +1663,6 @@
     <category lang="es">Radio</category>
   </programme><programme start="20261126220000 +0000" stop="20261127030000 +0000" channel="Sol">
     <title lang="es">Programación de noche</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126080000 +0000" channel="PowerMax">
-    <title lang="es">Sin programación</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126080000 +0000" stop="20261126100000 +0000" channel="PowerMax">
-    <title lang="es">Amanecer con JR</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126100000 +0000" stop="20261126123000 +0000" channel="PowerMax">
-    <title lang="es">El mundo y la región</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126123000 +0000" stop="20261126140000 +0000" channel="PowerMax">
-    <title lang="es">Página 104</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126140000 +0000" stop="20261126160000 +0000" channel="PowerMax">
-    <title lang="es">Asi son las mañanas</title>
     <category lang="es">Radio</category>
   </programme><programme start="20261126160000 +0000" stop="20261126170000 +0000" channel="PowerMax">
     <title lang="es">Sin programación</title>
@@ -1745,15 +1682,6 @@
   </programme><programme start="20261127000000 +0000" stop="20261127030000 +0000" channel="PowerMax">
     <title lang="es">Sin programación</title>
     <category lang="es">Otros</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126100000 +0000" channel="Next">
-    <title lang="es">Programación de madrugada</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126100000 +0000" stop="20261126130000 +0000" channel="Next">
-    <title lang="es">Red Urbana</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126130000 +0000" stop="20261126150000 +0000" channel="Next">
-    <title lang="es">Diario Castellanos</title>
-    <category lang="es">Radio</category>
   </programme><programme start="20261126150000 +0000" stop="20261126170000 +0000" channel="Next">
     <title lang="es">Next Noticias</title>
     <category lang="es">Noticiero</category>
@@ -1772,48 +1700,18 @@
   </programme><programme start="20261127010000 +0000" stop="20261127030000 +0000" channel="Next">
     <title lang="es">Programación de noche</title>
     <category lang="es">Otros</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126090000 +0000" channel="Chacra">
-    <title lang="es">La red del campo</title>
-    <category lang="es">Agro</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="Chacra">
-    <title lang="es">Chacra Agro Continental</title>
-    <category lang="es">Noticiero</category>
-  </programme><programme start="20261126100000 +0000" stop="20261126150000 +0000" channel="Chacra">
-    <title lang="es">La red del campo</title>
-    <category lang="es">Agro</category>
-  </programme><programme start="20261126150000 +0000" stop="20261126160000 +0000" channel="Chacra">
-    <title lang="es">ChacraTV Noticias</title>
-    <category lang="es">Noticiero</category>
   </programme><programme start="20261126160000 +0000" stop="20261126210000 +0000" channel="Chacra">
     <title lang="es">La red del campo</title>
     <category lang="es">Agro</category>
   </programme><programme start="20261126210000 +0000" stop="20261127030000 +0000" channel="Chacra">
     <title lang="es">La red del campo</title>
     <category lang="es">Agro</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126090000 +0000" channel="Taste">
-    <title lang="es">Comida y viajes</title>
-    <category lang="es">Cocina</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126150000 +0000" channel="Taste">
-    <title lang="es">Comida y viajes</title>
-    <category lang="es">Cocina</category>
   </programme><programme start="20261126150000 +0000" stop="20261126210000 +0000" channel="Taste">
     <title lang="es">Comida y viajes</title>
     <category lang="es">Cocina</category>
   </programme><programme start="20261126210000 +0000" stop="20261127030000 +0000" channel="Taste">
     <title lang="es">Comida y viajes</title>
     <category lang="es">Cocina</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126100000 +0000" channel="F10">
-    <title lang="es">Programación de madrugada</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126100000 +0000" stop="20261126123000 +0000" channel="F10">
-    <title lang="es">F10 Noticias - Primera edición</title>
-    <category lang="es">Noticiero</category>
-  </programme><programme start="20261126123000 +0000" stop="20261126153000 +0000" channel="F10">
-    <title lang="es">El show de las mañanas</title>
-    <category lang="es">Entretenimiento</category>
-  </programme><programme start="20261126153000 +0000" stop="20261126162000 +0000" channel="F10">
-    <title lang="es">Programación de tarde</title>
-    <category lang="es">Otros</category>
   </programme><programme start="20261126162000 +0000" stop="20261126180000 +0000" channel="F10">
     <title lang="es">F10 Noticias - Segunda edición</title>
     <category lang="es">Noticiero</category>
@@ -1832,21 +1730,6 @@
   </programme><programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="F10">
     <title lang="es">Programación de noche</title>
     <category lang="es">Otros</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126080000 +0000" channel="Litus">
-    <title lang="es">Programación de madrugada</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="Litus">
-    <title lang="es">Hora cinco</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126120000 +0000" channel="Litus">
-    <title lang="es">Que quede claro</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126120000 +0000" stop="20261126160000 +0000" channel="Litus">
-    <title lang="es">Radiosapiens</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126160000 +0000" stop="20261126161500 +0000" channel="Litus">
-    <title lang="es">Panorama informativo</title>
-    <category lang="es">Radio</category>
   </programme><programme start="20261126161500 +0000" stop="20261126170000 +0000" channel="Litus">
     <title lang="es">10 en deportes</title>
     <category lang="es">Deportes</category>
@@ -1868,15 +1751,6 @@
   </programme><programme start="20261126231500 +0000" stop="20261127030000 +0000" channel="Litus">
     <title lang="es">Programación de noche</title>
     <category lang="es">Radio</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126090000 +0000" channel="Rafaela">
-    <title lang="es">Sin programación</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126110000 +0000" channel="Rafaela">
-    <title lang="es">Amanece la Región</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126110000 +0000" stop="20261126150000 +0000" channel="Rafaela">
-    <title lang="es">Arriba la Mañana</title>
-    <category lang="es">Radio</category>
   </programme><programme start="20261126150000 +0000" stop="20261126190000 +0000" channel="Rafaela">
     <title lang="es">Nada de Siesta</title>
     <category lang="es">Radio</category>
@@ -1889,15 +1763,6 @@
   </programme><programme start="20261126230000 +0000" stop="20261127030000 +0000" channel="Rafaela">
     <title lang="es">Música de Radio</title>
     <category lang="es">Música</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126080000 +0000" channel="Aire">
-    <title lang="es">La noche al Aire</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="Aire">
-    <title lang="es">Anticipos</title>
-    <category lang="es">Radio</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126110000 +0000" channel="Aire">
-    <title lang="es">CREO</title>
-    <category lang="es">Radio</category>
   </programme><programme start="20261126110000 +0000" stop="20261126170000 +0000" channel="Aire">
     <title lang="es">Ahora vengo</title>
     <category lang="es">Radio</category>
@@ -1916,18 +1781,6 @@
   </programme><programme start="20261127000000 +0000" stop="20261127030000 +0000" channel="Aire">
     <title lang="es">VIVO AIRE</title>
     <category lang="es">Radio</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="22Web">
-    <title lang="es">Algo que contar</title>
-    <category lang="es">Periodístico</category>
-  </programme><programme start="20261126033000 +0000" stop="20261126090000 +0000" channel="22Web">
-    <title lang="es">Repetición</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126090000 +0000" stop="20261126140000 +0000" channel="22Web">
-    <title lang="es">Repetición</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126140000 +0000" stop="20261126150000 +0000" channel="22Web">
-    <title lang="es">Infoshow</title>
-    <category lang="es">Magazine</category>
   </programme><programme start="20261126150000 +0000" stop="20261126170000 +0000" channel="22Web">
     <title lang="es">GreKo</title>
     <category lang="es">Periodístico</category>
@@ -1948,15 +1801,6 @@
     <category lang="es">Periodístico</category>
   </programme><programme start="20261127010000 +0000" stop="20261127030000 +0000" channel="22Web">
     <title lang="es">Moranza</title>
-    <category lang="es">Periodístico</category>
-  </programme><programme start="20261126030000 +0000" stop="20261126110000 +0000" channel="Perfil">
-    <title lang="es">Repetición</title>
-    <category lang="es">Otros</category>
-  </programme><programme start="20261126110000 +0000" stop="20261126130000 +0000" channel="Perfil">
-    <title lang="es">Longobardi</title>
-    <category lang="es">Periodístico</category>
-  </programme><programme start="20261126130000 +0000" stop="20261126160000 +0000" channel="Perfil">
-    <title lang="es">Modo Fontevecchia</title>
     <category lang="es">Periodístico</category>
   </programme><programme start="20261126160000 +0000" stop="20261126173000 +0000" channel="Perfil">
     <title lang="es">Ronda de investigación</title>
@@ -2430,6 +2274,111 @@
     <title lang="es">Variedades</title>
     <category lang="es">Otros</category>
   </programme><programme start="20261128210000 +0000" stop="20261129030000 +0000" channel="Perfil">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Sol">
+    <title lang="es">Programación de madrugada</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Sol">
+    <title lang="es">Programación de mañana</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Sol">
+    <title lang="es">Programación de tarde</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129110000 +0000" channel="PowerMax">
+    <title lang="es">Sin programación</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129110000 +0000" stop="20261129130000 +0000" channel="PowerMax">
+    <title lang="es">Arriba el domingo</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129130000 +0000" stop="20261129150000 +0000" channel="PowerMax">
+    <title lang="es">La revista de Analía</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129190000 +0000" channel="PowerMax">
+    <title lang="es">Te va a gustar</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Next">
+    <title lang="es">Programación de madrugada</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Next">
+    <title lang="es">Programación de mañana</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Next">
+    <title lang="es">Programación de tarde</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Chacra">
+    <title lang="es">La red del campo</title>
+    <category lang="es">Agro</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129100000 +0000" channel="Chacra">
+    <title lang="es">Chacra Agro Continental</title>
+    <category lang="es">Noticiero</category>
+  </programme><programme start="20261129100000 +0000" stop="20261129150000 +0000" channel="Chacra">
+    <title lang="es">La red del campo</title>
+    <category lang="es">Agro</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129160000 +0000" channel="Chacra">
+    <title lang="es">ChacraTV Noticias</title>
+    <category lang="es">Noticiero</category>
+  </programme><programme start="20261129160000 +0000" stop="20261129210000 +0000" channel="Chacra">
+    <title lang="es">La red del campo</title>
+    <category lang="es">Agro</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Taste">
+    <title lang="es">Comida y viajes</title>
+    <category lang="es">Cocina</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Taste">
+    <title lang="es">Comida y viajes</title>
+    <category lang="es">Cocina</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Taste">
+    <title lang="es">Comida y viajes</title>
+    <category lang="es">Cocina</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="F10">
+    <title lang="es">Películas</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="F10">
+    <title lang="es">Películas</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="F10">
+    <title lang="es">Peliculas</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Litus">
+    <title lang="es">Programación de madrugada</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Litus">
+    <title lang="es">Programación de mañana</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Litus">
+    <title lang="es">Programación de tarde</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Rafaela">
+    <title lang="es">Sin programación</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Rafaela">
+    <title lang="es">Sin programación</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Rafaela">
+    <title lang="es">Sin programación</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129110000 +0000" channel="Aire">
+    <title lang="es">Sin programación</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129110000 +0000" stop="20261129170000 +0000" channel="Aire">
+    <title lang="es">Algo que decir</title>
+    <category lang="es">Radio</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129110000 +0000" channel="22Web">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129110000 +0000" stop="20261129150000 +0000" channel="22Web">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129190000 +0000" channel="22Web">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129030000 +0000" stop="20261129090000 +0000" channel="Perfil">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129090000 +0000" stop="20261129150000 +0000" channel="Perfil">
+    <title lang="es">Variedades</title>
+    <category lang="es">Otros</category>
+  </programme><programme start="20261129150000 +0000" stop="20261129210000 +0000" channel="Perfil">
     <title lang="es">Variedades</title>
     <category lang="es">Otros</category>
   </programme></tv>
